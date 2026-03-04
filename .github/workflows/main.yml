@@ -57,7 +57,7 @@ jobs:
           config_timezone: Asia/Shanghai
           
           plugin_anilist: yes
-          plugin_anilist_user: yanfd
+          plugin_anilist_user: radiant303
           plugin_anilist_sections: favorites, characters
           plugin_anilist_shuffle: yes
           
