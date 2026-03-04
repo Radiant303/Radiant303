@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="313" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="368" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}.anilist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px}.anilist .characters{display:flex;flex-wrap:wrap}.anilist .characters img{margin:2px;border-radius:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,28 +23,6 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAQFBgcBAwgC/8QAMxAAAQMDAwIEAwYHAAAAAAAAAQIDBAAFEQYSITFBEyJRYQcycRQWIyQzoWKBkrHB0eH/xAAYAQEBAQEBAAAAAAAAAAAAAAACAQMFAP/EAB0RAAIDAQADAQAAAAAAAAAAAAABAhEhEgMEEzH/2gAMAwEAAhEDEQA/ALtlapsGHg89LeS4CCnYAMHqOMfvUZM3S811artbXpW1Six5iNqD2OD1qAO3BSknlP8AWP8AdIJU91UN8sOBLqW17VbuhxwR/Ou5H1VFY2cqXsN/qH7WuprDb0GHp21rhvH51biTjqe5wehz9eK06N+ITKbyq6XJbjcSPb3wSE+ZbiQgE8cEkAAd+Ko28S3VmNKVdUyJCkDcG0bS3kdDisRb9c0QXIQnLMNxCkqbVzgFSScZ75APFb/GPPJj3Lro6ltWpI91QZEV5LjbnmGO319KKoz4c3Zz7zynfGKkvlW7A2pUB0OOxz/eihLxU8HHz5ovjaL1A62kPXRpC0/MAvt7eX/NaoGl1y3XAq9rcZhO7ZCEk8gHKk59wCM9vSlejNa3K8NJauUxl11lAjsNKUGw02kcYAGVfU5OAKcdHxbfEuF3FymupclvJIc3fl1KX0SpeMpPUZxjtmlTWyBl0hFcIemNYmNAsiYMSShwqQhgAFaE9QeBx7k596hmotNyLFIKH4MdtJ/TdHiKCvQg7sZ9quLS9g09H+1ITZ2GbjGdU26oleSDylSSecEemKfbk5aY8BTUtEJmOpO1Xi7U5HTqa8p06org2rTo5kk3Hw3HG4rDDCFAjclJ3DPvmit2tIlvh3+Qizy2pUJXmbLat2z+EnvRW2MKQlsTsZh8uyXltlJBTsb3En29DUzuGp5MWC6t+J4TVxBbWhJG9KByk5IIycnII59qKKrC1o1xdSRjFW3KuF8U7uwFB3H4fZPCv+V6RqLTsVo+HYlz5HZyc6Vftkiiio0KiP3+7Ju8lt8Qo0RSU7SmOnak88cfTiiiiqin/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Una Mattina</div>
-                                    <div class="artist">鲁多维科・艾奥迪</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcCA//EADAQAAEDAwMCBAMJAQAAAAAAAAECAwQABREGEiExQRNRYYEUcZEHIiMyQ1JiobGy/8QAFwEBAQEBAAAAAAAAAAAAAAAABQQGAf/EACYRAAIBBAIBAgcAAAAAAAAAAAECAwAEESESMRMFIxQiQUJRgbH/2gAMAwEAAhEDEQA/AF2MnY2pLYKUk5PHUmnHRctUa4I3sK8NpvYpSOQkqPekyM3OuspiBBQmM89yFuD8o7mtN07pVvS9tWt6UufOeUAXDkJTnqEjP9127Cqh5nZ6FbF7nYijXX5q9vjsppAWl4x46RuccA5x8+1QpWrrXFhMtQ7pFU64oJShs+KtSjxyASfc00PL2qSXGwpsoAUDzxUZqx2K1urmxLXDZkH9RDYBz6eXtRcZjAw+ajkd8gKBWeazjqt64sgqG9KilXkQrt9aK5+0ScwuHKdfQpcdsDIScHqBwfOilrO280fIrmqZ/UfhSEZgNZrNGb44ze41xZUdgUWlj9tbE5dI9ysQMqS4w2nC1Otr2np5+9Y0baGYDqG+WnU7ueSlWan6cuSrjb1W10p8VJCkhR4JHSrLy1SZQ8f2/wAo+3meKTx3Pb7/AH9a1KHqGwBLAkTJD6kJA8R0nKe2DjH1pnnT2psFDkV1DjJGQpByDSFbNN3uVDCQmIzGVjP4p6fIDn3qfepbenrUzFRhbyj4bTLY+86s9gPPNAtFyfivdKuIlHMHql7XKmnoBhbsLdVvUP4p5/2iqTWLciLHSZSSJKklb6h/yPQdP770VpLGJ1iHBqHvpIDJ7yZNL6pbqWtrIC+N6iVcivCw21y5plPRFbZrKgtKQduUnrj1ooq1/aiZlosk3E8aSHRzTDatWasaQmCxGccWDt3Fo5A/ynDTdqkQZiLjfXvjL48k+E3uylhHcjsD6+woooa/IT5UUDPeKSsEL5Z2Jx1mru66YVdmF/FbcLBBCeMUUUUMLuVBxU6pQqr7YV//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Love the Way You Lie, Pt. 2 (feat. Eminem)</div>
-                                    <div class="artist">Rihanna &amp; Eminem</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAYHCAIDBAX/xAAwEAABAwMCBQMCBQUAAAAAAAABAgMEAAURBiEHEhMxURRBYSKRFjJCcaFSgdHw8f/EABcBAQEBAQAAAAAAAAAAAAAAAAQFAwb/xAAiEQACAgICAgIDAAAAAAAAAAABAgADBBESIQUTIjEjQXH/2gAMAwEAAhEDEQA/ANUVMde8VYdguibZam0zrg25iQk5CUDG6cj9X8DBzT/fJybba5EpaglLaclR9vmoGpqB+JLhdYDsYrkvqd51yUZyo5OAQcDNSvIZxo/Gn2Y/Cx1sJd/oTok8Y9UCUy6PRtJKlAxzGUQU98k5zt22IzT3oXi5GvE/0F9bahSlhPSW3ktrUe4yTsf9zWfL5qOdL1et2BcWUNPSkwk4fSVY2CiAfyjPvy4PemOdOYYnRpNweYVHYdStzpupKsAjGMJFDGRk1FSx3uUrMWh1IA1/Jreivi6SvTN/tCZsZfUZUspSvzjx5HyKKu12CxQ6/uc+68ToxC44XS6stwbZFHQhzFpw+leFOKBPM0R4Ix+++dqm81+WmGvo3ZIk4PKhTSAnm8HG4+1W7iVYYN/s/ppalMP5BZlJySyc9x5O/b/FZhvcCNZp815qVdJtwhSMORUrGHVJVg4AA+nbxn4rn82vnk/JpcwWHp6HcRpFllx76+1GYDkuPJCkyA5lPMVZCgfcfHnvVKRMlrZTi9AOnsek2SD9t96QokG4SSqdGW9FubpUvoyF5RynbtjY4+1eq06WdD8UO3GSJKnEjl6nMgKz4xuM+1LyhVYuuXYmtK2g7ZeiJovgNcb0lcyzzVplx2CXXH1KILJUAUoSPB3OOw9qKbOF+nIenLe5GbdXLnEkvzFghTh2zkex/wC0Uzx/L0jZ3I2WVNpKjUeFoS4nC0pUPBGam2vOFUDUNxTcbctMGe45mQsglC043Vy/1bD98nNFFIspS0FWEyrteo8kOpPJHBnUhkstJVBcbClEvl9QAHbBHLnfvsP7036d4SNWaNNnXBXr7miOfTIjqLaUuBJ3GcfVnG5OPiiij14FKHlrcTZn3OOJM5aXhaqb1Bb1TY9/RES6C8XZiFIPyoBW4/k0UUU3QHQgydz/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Spaceship (feat. GLC &amp; Consequence)
-Explicit content</div>
-                                    <div class="artist">Kanye West</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAYHAwQIBf/EAC8QAAIBBAAEBQMCBwAAAAAAAAECAwAEBREGEiExBxNBUWEUcYEiQhYycoKRobH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgMBBP/EABoRAAMBAQEBAAAAAAAAAAAAAAABEQIDElH/2gAMAwEAAhEDEQA/AOZ8XjkvUZnmZNMFConMze/qAPyQPms1xYr9aIMfaTXJLBFAkEvMx7D9A1v4BNYMZkvoIZ1W3hmaQDRmXmVf7T0P532qzvDF7/E4scTPZyZGcSMlpEw/RAOxlVewO+g9tHVVxj24Y3EVz/C+f+nNwcHkxAOplNo/KB99arypoJITqRSp+a6Ybj/I427tbzITyoX25SVhph07aJqLeN5xvF2IXirh+yjtkiZYrpEHVy3ZwPuNH7g1TfBJVOiZ3XGUXSlK5iht4yCK6yNtBcSiGKSVUeQ/tBOia658QeDbPGeH9y2KlDWtgIool30Ka1se/Xr+a48q6eAvEC5v+Cr3h7O+dk4YSrhfOKSiEaAAbR2FI9R0B9h0vx1HPouiEzbLlddv91YeKZrHwY4kuI5RFNKoi2f3Ix0VH+KhOTiSTyZLHG3VssoLbuJg4YehU6GhXo8QZU4rw0bCXBtria/uxMkkUnN5Sp/MNjoQSdbHTYNVeomIlWVbSlK4yorbxt7cY2+hvLOVop4W5lYf8+R6EeopStAkl3xhDdXDTNw7h43ZuciNZQrH+nn1r4Gqj+XyU+UvGuLjlB0FVEHKiKOyqPQD2pStemwNClKUoH//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Touch</div>
@@ -52,11 +30,31 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAjACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCAwUB/8QAKhAAAgEDAgUEAQUAAAAAAAAAAQIDAAQREiEFBjFBURMicZEzB1JhgbH/xAAZAQEAAwEBAAAAAAAAAAAAAAACAAMFAQb/xAAlEQACAQIFAwUAAAAAAAAAAAAAAQIDEQUGEjGhEzJBUmFiouH/2gAMAwEAAhEDEQA/AMuDkrmK4WMnhk5UqDkkDA+9qk3I3ME0aKvC2AGVHTJ75NOG5mC49abGP3mmrC8u7WGco76SFDlz077UnjC9Bpyy7Vtfq8GOf055h2xYqDnH5BV78j8yvbxQSWhdYmPp5mGlQdzgec980yl/cPdARs2seR4+arvOITzpiRiAKLxn4Ehl6pLtrcGZxLlji/DSoubVBq6FXDf5RUp5S22B9UU1jKe8OSx5YrLat9f0cizNj3KM43Y7D5qyKTELIxRPOc5b5rOExRRkbV1bhJAR7g3XesCfserjFuNmh/QoullE0YGkjqd/nak3IcMdYOSa5Gq6AZZVQfyKkkcLysFlGO2FJz9UbtkhR0FVxE0SozYCuMjeirLpYkVRqYt4YEYH90UkxvUIyE6evaq4SfUoorrL47DE346jESCMUUUYjXk5cE0UUUgs/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAnACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwEDBAj/xAAwEAACAQMCBAMGBwEAAAAAAAABAgMABBEFIQYSEzFBUWEHFCIygbEVI0JxkaHw8f/EABkBAAIDAQAAAAAAAAAAAAAAAAUHAwQGAf/EACMRAAICAgICAQUAAAAAAAAAAAECAAMEESExBRJhExRRcfD/2gAMAwEAAhEDEQA/AJCd5tE4b04QMGmmjQYIzvyg7UhXWo6hqOpLFdTywHOMSQgAnv38qZOItYSaPSIoSSYI4wwII7gDbzrrv0tr+WAQKWuXxzHypb0n6G3deTvn8Qsw9+AepBcOaR7x7SdOxEZIoIxMx8Ad8E/WrwApd4V0ZtPlubqZAs0qrGPE8q9v7NMOaBeVy/ubAB0o1LdFXop+ZpvVzazDJ3RvtRWbreCQean7UVVobQkpEoH8anaRffhEUjRVWQDlOABjam72fX+nT6vDHPcKtzKCYIz+sjv/AM8arLUIL6YAzKvKij5fKl83kttfQTW8jJNAwZXB3BBzTAs8auVWUU6PxAq3msgkT14lzC9w8Cv+YmOYEEd+2/j9K0S6jbJcxwCVHleTplVYEqcZ3H+70g8F8V6NxgkUF6Bb62vxHJ+YjAJQn9u38U5roNoJut8XVDFw+FyrE5LDbvmsPfhriuUv2CP7f6hyuytx7LzJOdcxPjyNFc5tpFIY3czAA5U4w3f09aKqDS8Aznc8pX2u311H02ZUXseQd6iN+5oop0rjpXwo1MobGbuZjkkiZXjZkYHIYHBFWLwt7WNa0vpQ6ly39quxL7SY9G8frRRUGV4/HykK3LuSpc9fKmXhpfENhq+mRXlpI3TlXmAZCCPQ0UUUtLsCpLGUb0DDyWsygmf/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Feather (feat. Cise Star &amp; Akin)
-Explicit content</div>
-                                    <div class="artist">Nujabes</div>
+                                    <div class="name">普通朋友</div>
+                                    <div class="artist">陶喆</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYBAv/EACkQAAIBAwMDBAIDAQAAAAAAAAECAwAEEQUSIRMxQSIyYXFRwWKBkeH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUCBv/EACERAAIDAAEDBQAAAAAAAAAAAAABAgMRBBIhMRQiMkFx/9oADAMBAAIRAxEAPwBSittXaCT91ZSN1ALKePGKptvFq5YggYPf+60tvqGow26rbTv0U4AD+0eBULj0K7dfgtX2uvMQvW1mF10nDiZpBD0un6UO7GS3/K9S2jAnejAj4q82v6jGgaSeXnz1CKnt9avLq1uJWmmWBQVYtLkMce0Z7kj/AAU7PiwkuzzBON86/PfTPTW7AEbRj6oonvGKOcKc0VK/CjjKVwzCzlAzjb3ponXvLOza0iF4Oh1GjLBCGBw3x35qheDbp8pCjO381LZ2rrosMVw0qblO5F9vqOdrH6A4p/gL3NNdhPntKKf2TafHHre6OBGjVctPK5O2IDv2OD9DvT3UkhS1ggtgVto0YRLj+Pc/Jz+hxS2OSWJ7bS7URxWzFTIFHvbv6j58cDgdqaywSRiGB1G5WcNJyPIGOaoyi1F4T6pbNNmWlhOw4ZgDRVyVCI2LEDj80Vz5eOm3imhCOCV4J+abzXPUZunEmxs4jY5UZ48ecDGaKK1C+dW9DMTqhb80R2a9KYSyQhznPpbH6p0+tJNevNNbhkkUKY8cceR+DnzRRRly7Ws0H6WpPwZu4jHI5x80UUUuGZ//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Chaos Space Marine</div>
+                                    <div class="artist">Black Country, New Road</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAgHBf/EADEQAAIBAwIEAwUJAQAAAAAAAAECAwAEEQUhBgcSQTFRcRMUYYGSCBUidYKisbPR0v/EABgBAQADAQAAAAAAAAAAAAAAAAABAwQC/8QAHhEAAgIBBQEAAAAAAAAAAAAAAAECEQMSEyExURT/2gAMAwEAAhEDEQA/ANIXcTzWssUU7wSOpCyoASh8wDtXiLpF5Cre8cT35DMCC6wrjY5Awo8cj6fWmEeIrl3PxLR+DWhm9l1Tzqqq/jnB3XvkfCseLFrTdkuVOhv+7bjpIPFN6fI4hyP2717onhJ2mi+sVmzTuXfEaSzJY2drqNvDI0KTyXQhLhTjdcHf50x2nAfGCrldD01fS/H/ADR4JeHSlH07oPXaiq2lxSwaZaRXChJo4UWRQcgMFAIB7796KoYJp5UggkmlZUjRSzMxwAB3J7Vl77QfF1lqvEOlx2F1FcWtovWzwyB1DE4IGPE7VoPmNvwBxJ+XXH9ZrCOlx+9apbWzE9Mkqp8icVqwSqLRXPs1BpHOPTYUK2eia7dozGTrgtgwOd98HY0yWXOa0K5fhfiZV8zZbfzU3K5LXSNGuLKAIq291ImM9hjFdEt76Fk/Ewx8fCu/ob4G3TIbG7W/sre8SOSNbiNZQkgwyhhnBHY70VPkHdcdJ8PSisUuWWFfUbODUdPubK8j9pa3MbQypkjqRhgjI3G1IsHJngK3nSaLQVEiMGU+8ynBH6qKKm3HoNKxituDtDtpGeCzZHY9TETvufqq+dFsSnQYn6fL2rf7RRUWxbL8aLHGiIMKoCjftRRRQH//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Sultans of Swing</div>
+                                    <div class="artist">Dire Straits</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHAv/EACwQAAEDAwMDAwIHAAAAAAAAAAECAwQABRESITEGE1EHQWEigRQyQnGxwfD/xAAXAQEBAQEAAAAAAAAAAAAAAAADAgQA/8QAHxEAAwEAAQQDAAAAAAAAAAAAAAECAyEEETFBEzJx/9oADAMBAAIRAxEAPwDjbLAP6d6VXiXJYuKYsUgKITpSlIJKj7VqmI4PtUdijW/pW+Q58wsSEOKU26JgCyArcKSMcgjnB5qtacy2kFhKu1NPyULdHnJVIj3WKtmSwvSrWjGds48H7eRVlyKMflFbDqCU/PuDdwfYeMKSFONo0432G+BsSNB39vvWSuClkGP2XBJdQe2gnCfBJIo+n1+WFT8l9VistHKE09SWVNBISoqUEnAzz+3FFNfwLUVkNsthCR48+aK0dgFQ7GGYzrpwQ2hSuPAzUPph6bnrlFxuE+YpC2FhP1HlRzyfG3G23iouo7i7arKt+KpKX1KDaSQCMHnY7HbPNbP0qvTsT0q6rmrWlpxUjSkpSEjUpI4AAA2I9qz7NpC9OvYulzld0RY75XaoyylCnEgd7AwVBOcpHjJJxzjiqc5ltT8XthaNeFBSxkaCknnnkD+6zMq7MORUtNoBkKAQrfYHJAwRvnbJB8+9PbRGXoKllRcAwofJ+KnOVPC4O0p03V8spSwM4ONRGcUV7uDKhOGohJCD9PvRWpACLrWQHIEZjIGtwnn2/wAa1dilRmfSGfHQ4VOO3RguJSnGjIwAc/CeeDRRWbb1+mnH6swRjvRpLjbLgGteDnGQM5BG32ronRz3ZgvrksCQFubB0nIwMfyaKKuFyBdPsV7rren98ttISUkYQMafgfFFFFMiH5P/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">花田错</div>
+                                    <div class="artist">王力宏</div>
                                 </div>
                             </div>
                         </div>
@@ -70,13 +68,45 @@ Explicit content</div>
                     </svg>
                     Anilist
                 </h2>
+                <div class="row fill-width">
+                    <section>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                            </svg>
+                            Favorites genres:
+                        </div>
+                    </section>
+                </div>
                 <div class="row">
                     <section>
-                        <div class="field error">
+                        <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
+                                <path fill-rule="evenodd" d="M16 3.75a.75.75 0 00-1.136-.643L11 5.425V4.75A1.75 1.75 0 009.25 3h-7.5A1.75 1.75 0 000 4.75v6.5C0 12.216.784 13 1.75 13h7.5A1.75 1.75 0 0011 11.25v-.675l3.864 2.318A.75.75 0 0016 12.25v-8.5zm-5 5.075l3.5 2.1v-5.85l-3.5 2.1v1.65zM9.5 6.75v-2a.25.25 0 00-.25-.25h-7.5a.25.25 0 00-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-4.5z"/>
                             </svg>
-                            API error: 404 (Not Found.)
+                            0 minutes watched
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
+                            </svg>
+                            0 chapters read
+                        </div>
+                    </section>
+                </div>
+                <div class="row fill-width">
+                    <section>
+                        <div class="anilist">
+                            <h2 class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill-rule="evenodd" d="M4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.565 20.565 0 008 13.393a20.561 20.561 0 003.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.75.75 0 01-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5zM8 14.25l-.345.666-.002-.001-.006-.003-.018-.01a7.643 7.643 0 01-.31-.17 22.075 22.075 0 01-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.08 22.08 0 01-3.744 2.584l-.018.01-.006.003h-.002L8 14.25zm0 0l.345.666a.752.752 0 01-.69 0L8 14.25z"/>
+                                </svg>
+                                Favorites characters
+                            </h2>
+                            <div class="characters">
+                            </div>
                         </div>
                     </section>
                 </div>
